@@ -2,8 +2,6 @@
 
 I am a Software Engineer and Web Developer with over 4 years of experience building high-performance digital infrastructure, e-commerce platforms, and optimizing web architecture. I am currently transitioning my expertise into **Data Automation**, **AI-driven pipelines**, and **Game Development**, aiming to build transparent and scalable technological solutions.
 
-*"Bridging the gap between robust web infrastructure, clean UI/UX, and automated research data management."*
-
 ## 🎯 Current Focus & Ongoing Projects
 
 * **VeriClaim (Academic Data Pipeline):** Architecting an autonomous, cross-lingual pipeline for scientific claim verification. Utilizing n8n, Python, PostgreSQL, and the Semantic Scholar API to mitigate AI hallucination in research data management.
