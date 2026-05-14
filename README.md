@@ -1,6 +1,6 @@
 # Hi there, I'm Parisa Tabar 👋
 
-I am a Software Engineer and Web Developer with over 3 years of experience building high-performance digital infrastructure, e-commerce platforms, and optimizing web architecture. I am currently transitioning my expertise into **Data Automation**, **AI-driven pipelines**, and **Game Development**, aiming to build transparent and scalable technological solutions.
+I am a Software Engineer and Web Developer with over 4 years of experience building high-performance digital infrastructure, e-commerce platforms, and optimizing web architecture. I am currently transitioning my expertise into **Data Automation**, **AI-driven pipelines**, and **Game Development**, aiming to build transparent and scalable technological solutions.
 
 *"Bridging the gap between robust web infrastructure, clean UI/UX, and automated research data management."*
 
